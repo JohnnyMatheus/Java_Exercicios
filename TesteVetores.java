@@ -28,6 +28,5 @@ public class TesteVetores {
 		sc.close();
 	}
 	
-	ssss
 
 }
