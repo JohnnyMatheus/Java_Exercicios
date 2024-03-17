@@ -25,6 +25,9 @@ public class TesteVetores {
 		for (int i = 0; i < v1.length; i++) {
 			System.out.print(v1[i] + " ");
 		}
+		sc.close();
 	}
+	
+	ssss
 
 }
